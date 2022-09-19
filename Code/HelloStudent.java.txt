@@ -1,0 +1,6 @@
+public class HelloStudent {
+public static void main(String[] args) {
+// Prints "Hello Student, Welcome" as output
+System.out.println("Hello Student, Welcome");
+}
+}
